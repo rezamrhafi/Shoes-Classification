@@ -1,0 +1,3 @@
+URL Dataset : https://www.kaggle.com/datasets/die9origephit/nike-adidas-and-converse-imaged
+URL Deployment : https://huggingface.co/spaces/RezaMRhafi/GC7
+URL Model : https://drive.google.com/drive/folders/1Si5B7MI1cduQC0g2zcWReDpYh3sBB-19?usp=sharing
