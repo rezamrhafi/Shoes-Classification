@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+plotly
+matplotlib
+scikit.learn==1.6.0
+tensorflow==2.15.1
+tensorflow-hub==0.16.1
